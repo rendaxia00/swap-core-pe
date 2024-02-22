@@ -44,6 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rendaxia00/swap-core-pe.git"
+    "url": "git+ssh://git@github.com/rendaxia00/swap-core-pe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rendaxia00/swap-core-pe/issues"
+  },
+  "homepage": "https://github.com/rendaxia00/swap-core-pe#readme",
+  "author": "rendaxia",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
