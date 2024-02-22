@@ -1,6 +1,6 @@
 {
-  "name": "@rendaxia/sdk_v1",
-  "version": "0.0.2",
+  "name": "@rendaxia/sdk_swap_core",
+  "version": "0.0.3",
   "description": "SDK for use any functions of v1 Protocol",
   "license": "GPL-3.0-or-later",
   "keywords": [
